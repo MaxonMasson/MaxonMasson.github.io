@@ -1,0 +1,85 @@
+﻿body{
+	background-image: url(images/Back.png);
+}
+
+#Y{
+  color: #E60300;
+  font-size: 20px;
+}
+
+div{
+	color: #068000;
+	font-size: 30px;
+}
+
+#G{
+	color: #0FC700;
+	font-size: 20px;
+}
+
+#V{
+	color: #00A4E6;
+	font-size: 20px;
+}
+
+strong{
+	font-size: 20px;
+	color: #BA55D3;
+}
+
+.Human{
+	color:#82A7B5;
+}
+
+.Animal{
+	color:#FCC331;
+}
+
+.Lion{
+	color:#FCC331;
+}
+
+.Monkey{
+	color:#332500;
+}
+
+.Fish{
+	color:#1479DB;
+}
+
+.message{
+	color:#800005;
+	background-color:#E4E4E4;
+	border: 2px solid #260202;
+	font-size: 20px;
+	margin-right: 50px;
+	margin-left:50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 15px;
+}
+
+.succes{
+	background-color: #19C200;
+	color: #000000;
+}
+
+.fail{
+	background-color:#FF3D3F;
+	color:#FFFFFF;
+}
+
+.message:hover {
+	border: 10px solid #260202;
+}
+
+#CSS{
+	background-color:#758AF0;
+	color: #C7000B;
+	padding: 15px;
+	margin: 15px;
+	border: 7px solid black;
+	border-radius: 100px;
+	opacity: 0.5
+	
+}
